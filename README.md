@@ -7,10 +7,13 @@ power generation.
 
 
 Data Description:
+
  Source: Internal plant data collection
  Size: 9568 observations (hourly measurements) collected over six years
- Features:
 
+
+
+ Features:
 
 o Temperature (°C)
 o Exhaust Vacuum (cm Hg)

@@ -16,8 +16,11 @@ Data Description:
  Features:
 
 o Temperature (°C)
+
 o Exhaust Vacuum (cm Hg)
+
 o Ambient Pressure (millibar)
+
 o Relative Humidity (%)
 
 
